@@ -34,7 +34,7 @@ The sound of water came from the rear
 Boy 	006_006 	
 「Hm? What was that voice...」
 
-To see what was happening.
+He checked out to see what was happening.
 
 Boy 	007_007 	
 「H-Huh... is something climbing its way up to the ship...?」
