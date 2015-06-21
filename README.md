@@ -10,4 +10,4 @@ Summer has come and people are off to enjoy their summer vacation. A boy was dra
 ## License:
 [![image]](https://i.creativecommons.org/l/by/4.0/88x31.png)  
 [image]: https://i.creativecommons.org/l/by/4.0/88x31.png "CC-BY"  
-\<The mermaid, the sea and the boy's summer\>'s English version is licensed under Creative Commons Attribution 4.0 International License.
+\<The mermaid, the sea and the boy's summer\>'s Chinese and English versions are licensed under Creative Commons Attribution 4.0 International License.
