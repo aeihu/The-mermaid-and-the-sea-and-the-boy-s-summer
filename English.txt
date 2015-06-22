@@ -60,7 +60,7 @@ Boy 	013_010
 「Nope...」
 
 Boy 	014_011 	
-「Humm, indeed, it looks very nice... the connection between the upper part's human body and the lower part's fish's tail is very well done as if it was real....」
+「Humm, indeed, it looks very nice... the connection between the upper part's human body and the lower part's fish's tail is very well done as if it was real...」
 
 Boy 	015_012 	
 「Additionally, the scales make it even more realistic... and it's very slippery too...」
@@ -107,7 +107,7 @@ Boy 	028_020
 「...is this real?」
 
 Mermaid 	029_009 	
-「...what is?」
+「what is?」
 
 Boy 	030_021 
 「That. That lower body.」
@@ -129,7 +129,7 @@ Mermaid 	034_011
 「Idiot, it's not fishtail slap. Didn't you see the angle of the attack is slightly different?」
 
 Boy 	035_024 	
-「I see..」
+「I see...」
 
 Mermaid 	036_012 	
 「Also, I just said earlier not to freely touch anything.」
@@ -213,7 +213,7 @@ Boy 	062_038
 「...」
 
 Mermaid 	063_025 	
-「...? Why are you staring at me」
+「...? Why are you staring at me.」
 
 Mermaid 	064_026 	
 「N-No... I get it that I'm beautiful so don't do this...」
