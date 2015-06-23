@@ -48,7 +48,7 @@ Boy 	009_008
 「Fish...Human!? M-Merman!?」
 
 Mermaid 	010_002 	
-「Well well, what a rude human child you are. Fish people? Have you been reading the books? I'm a Mermaid,  Mermaid, Mermaid!」
+「Well well, what a rude human child you are. Merman? Have you been reading the books? I'm a Mermaid,  Mermaid, Mermaid!」
 
 Boy 	011_009 	
 「A mermaid... bullshit. That's nonsense.」
