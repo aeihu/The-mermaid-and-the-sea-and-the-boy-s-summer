@@ -104,10 +104,10 @@ Mermaid 	027_008
 「I'm glad that you know.」
 
 Boy 	028_020 	
-「...is this real?」
+「...Is this real?」
 
 Mermaid 	029_009 	
-「what is?」
+「What is?」
 
 Boy 	030_021 
 「That. That lower body.」
@@ -177,7 +177,7 @@ Mermaid 	050_019
 「Yes, that is correct.」
 
 Boy 	051_032 	
-「...well, where did this stylish bikini on your chest come from?」
+「...Well, where did this stylish bikini on your chest come from?」
 
 Mermaid 	052_020 	
 「Eh, this? Is it weird?」
@@ -234,7 +234,7 @@ Mermaid 	069_029
 「What？」
 
 Boy 	070_041 	
-「... if I cut it down, wouldn't it make a good sashimi?」
+「... If I cut it down, wouldn't it make a good sashimi?」
 
 Mermaid 	071_030 	
 「Stop it! You're such a horrible child!」
@@ -276,7 +276,7 @@ Mermaid 	083_036
 「Mhm, that's right. I just want to see what kind of luxury ship this is.」
 
 Boy 	084_048 	
-「...that's it?」
+「...That's it?」
 
 Mermaid 	085_037 
 「As expected, you really are an ignorant child.」
