@@ -1,0 +1,365 @@
+﻿﻿==================================================================
+
+The Mermaid, the Sea and the Boy's Summer
+
+Originale Version: <人魚と海と少年の夏> (http://tom.justhpbs.jp/tomhp/vd01.htm)
+Autor: とむ少佐
+Übersetzer EN: Dechi & Aeihu & AVALANCHE Game Studio
+Übersetzer DE: Marcel Weyers
+
+==================================================================
+
+Im Sommer auf dem Meer, irgendwo im Süden ...
+
+Junge 	001_001 	
+「Ugh ... Mir ist schlecht ...」
+
+Junge 	002_002 
+「Ich gehe besser raus an die frische Luft ...」
+
+Der Junge ging raus aufs Deck des Schiffes.
+
+Junge 	003_003 
+「Verdammt ... Endlich sind Sommerferien und ich sitze hier auf diesem Schiff.」
+
+Junge 	004_004 	
+「Es hat schon eine Weile gedauert, mit dem Flugzeug nach Okinawa zu kommen ... und jetzt muss ich noch zwei Stunden auf einem Schiff verbringen.」
+
+Junge 	005_005 	
+「Ich bezweifle, dass auf solch einer Insel jemand lebt ... aah ... Ich will brechen ...」
+
+(Unterwasserstimme)
+
+Der Klang von Wasser kommt von hinten.
+
+Junge 	006_006 	
+「Hm? Was war das für eine Stimme ...?」
+
+Er schaute nach, um zu sehen, was vor sich ging.
+
+Junge 	007_007 	
+「H-hm ... Klettert etwas am Schiff hoch ...?」
+
+Meerjungfrau 	008_001
+「Huff ... huff ... endlich ... Ich bin dieses Schiff hochgeklettert ... Dieses Luxusschiff ...」
+
+(Plätschergeräusche)
+
+Junge 	009_008 
+「Fisch...mensch?! M-meermann?!」
+
+Meerjungfrau 	010_002 	
+「Aber, aber, was für ein unfreundliches Menschenkind du bist. Meermann? Hast du das in Büchern gelesen? Ich bin eine Meerjungfrau, Meerjungfrau, Meerjungfrau!」
+
+Junge 	011_009 	
+「Eine Meerjungfrau ... Bullshit. Das ist Unsinn.」
+
+Meerjungfrau 	012_003 	
+「B-bullshit?! Hmph! Sieh dir meine atemberaubenden Schuppen und meinen schönen, smaragdfarbenen Körper an!」
+
+Junge 	013_010 	
+「Nö ...」
+
+Junge 	014_011 	
+「Hm, okay, es sieht sehr schön aus ... Die Verbindung zwischen dem oberen Menschenkörper und der Fischflosse ist sehr gut gemacht, als wäre es echt ...」
+
+Junge 	015_012 	
+「Und die Schuppen machen es noch realistischer ... und sie sind auch sehr glitschig ...」
+
+Meerjungfrau 	016_004 	
+「Fischflossenschlag!!」
+
+Der Junge wurde von der Flosse geschlagen.
+
+Junge 	017_013 	
+「Au!」
+
+Junge 	018_014 	
+「Hey, das tut weh! Wofür zur Hölle war das denn!」
+
+Meerjungfrau 	019_005 	
+「Mein Abschlusstreffer: Meerjungfrauensturm.」
+
+Junge 	020_015 	
+「Eben hast du es doch Fischflossenschlag genannt, oder?!」
+
+Meerjungfrau 	021_006 	
+「Ich habe es gerade in Meerjungfrauensturm umbenannt!」
+
+Junge 	022_016 	
+「Weißt du, du solltest dich zuerst für einen Namen entscheiden, bevor du es einsetzt ...」
+
+Junge 	023_017 	
+「M-moment, ich will die Namen nicht mal wissen!」
+
+Junge 	024_018 	
+「Warum hast du mich mit dem Fischflossenschlag geschlagen?!」
+
+Meerjungfrau 	025_007 	
+「Weißt du nicht, dass es nicht richtig ist, einfach so den Unterkörper einer Dame zu berühren? Außerdem darf ich dich daran erinnern, dass es Meerjungfrauensturm heißt.」
+
+Junge 	026_019 	
+「A-ah ... o-okay, richtig ... tut mir leid!」
+
+Meerjungfrau 	027_008 	
+「Ich bin froh, dass du es einsiehst.」
+
+Junge 	028_020 	
+「... Ist der echt?」
+
+Meerjungfrau 	029_009 	
+「Was?」
+
+Junge 	030_021 
+「Das. Der Unterkörper.」
+
+Tatsch, tastch.
+
+Meerjungfrau 	031_010 	
+「Vulkantritt!」
+
+Der Junge wurde von der Flosse geschlagen.
+
+Junge 	032_022 	
+「Au!!」
+
+Junge 	033_023 	
+「Hey, das hat wehgetan! Dein Fischflossenschlag tut weh!」
+
+Meerjungfrau 	034_011 	
+「Idiot, es heißt nicht Fischflossenschlag. Hast du nicht gesehen, das der Winkel der Attacke leicht anders war?」
+
+Junge 	035_024 	
+「Ich verstehe ...」
+
+Meerjungfrau 	036_012 	
+「Außerdem habe ich gerade erst gesagt, dass du mich nicht einfach so anfassen sollst.」
+
+Junge 	037_025 	
+「Tut mir leid, es war nicht beabsichtigt ...」
+
+Meerjungfrau 	038_013 	
+「Egal wie du ihn anschaust, er ist echt. Willst du auch meinen Meerjungfrauenplatscher sehen?」
+
+Junge 	039_026 	
+「Vergiss es ...」
+
+Junge 	040_027 	
+「Ist bei diesem Meerjungfrauenplatscher nur der Winkel anders?」
+
+Meerjungfrau 	041_014 	
+「Nur das Spucken.」
+
+Junge 	042_028 	
+「Dieser ist ganz anders! Ich bin sehr beeindruckt von dieser Fähigkeit!」
+
+Meerjungfrau 	043_015 	
+「Es ist ähnlich dem Spucken eines Alpakas ...」
+
+Meerjungfrau 	044_016 	
+「Was hast du gerade gesagt?」
+
+Junge 	045_029 	
+「N-nichts, ich habe nichts gesagt.」
+
+Junge 	046_030 	
+「Also Frau Meerjungfrau, bist du wirklich eine Meerjungfrau?」
+
+Meerjungfrau 	047_017 	
+「Du weißt es wirklich, wie man die passende Zeit raussucht, um unhöflich zu werden.」
+
+Meerjungfrau 	048_018 	
+「Ja, wie du sehen kannst, bin ich eine echte Meerjungfrau. Es ist selten, dass jemand eine Meerjungfrau kennenlernt, du fühlst dich also besser geehrt. Du solltest mir dankbar sein.」
+
+Junge 	049_031 	
+「Hmm ... du lebst also schon immer im Meer?」
+
+Meerjungfrau 	050_019 	
+「Ja, das ist korrekt.」
+
+Junge 	051_032 	
+「... Okay, wo kommt dieser modische Bikini her, den du trägst?」
+
+Meerjungfrau 	052_020 	
+「Äh, der hier? Ist das seltsam?」
+
+Junge 	053_033 	
+「Er sieht aus wie die Produkte, die auch an Land verkauft werden ...」
+
+Meerjungfrau 	054_021 	
+「Hmm. Ich erinnere mich, dass ich ihn von Leuten habe, die am Strand schwimmen waren.」
+
+Junge 	055_034 	
+「Du bist also eine Diebin ...」
+
+Meerjungfrau 	056_022 	
+「Ich bin keine Diebin. Das ist gemein.」
+
+Junge 	057_035 	
+「Oh, es ist also Zufall, dass die Bikinis am Strand in letzter Zeit so häufig verschwinden ...」
+
+Meerjungfrau 	058_023 	
+「Hmm ... Ich schätze, das war eine andere Meerjungfrau.」
+
+Junge 	059_036 	
+「Oh, ihr seid also eine Gruppe von Diebinnen.」
+
+Meerjungfrau 	060_024 	
+「Willst du noch einen Fischflossenschlag?」
+
+Junge 	061_037 	
+「Bitte nicht.」
+
+Junge 	062_038 
+「...」
+
+Meerjungfrau 	063_025 	
+「...? Warum starrst du mich an?」
+
+Meerjungfrau 	064_026 	
+「N-nein ... Ich weiß, dass ich schön bin, also hör auf ...」
+
+Junge 	065_039 	
+「Die Hälfte deines Körpers ist also ein Fisch, richtig?」
+
+Meerjungfrau 	066_027 	
+「Ah, nun, ja, d-das ist richtig ...」
+
+Meerjungfrau 	067_028 	
+「Es tut weh, ignoriert zu werden.」
+
+Junge 	068_040 	
+「...」
+
+Meerjungfrau 	069_029 	
+「Was?」
+
+Junge 	070_041 	
+「... Wenn ich sie zerschneide, würde das leckeres Sashimi abgeben?」
+
+Meerjungfrau 	071_030 	
+「Hör auf! Du bist so ein furchtbares Kind!」
+
+Meerjungfrau 	072_031 	
+「M-meine schöne Flosse ...」
+
+Junge 	073_042 	
+「Nein, es war ein Scherz ... Ich habe nur Spaß gemacht ...」
+
+Meerjungfrau 	074_032 	
+「Wenn du es auch nur wagst, mich anzugreifen, töte ich dich mit meiner Schwanzflosse.」
+
+Junge 	075_043 	
+「Du bist also wirklich verstört ...」
+
+Meerjungfrau 	076_033 	
+「Ich bin nicht verstört ... wenn man bedenkt, dass ich manchmal Menschen treffe, die Meerjungfrauen essen wollen.」
+
+Junge 	077_044 	
+「Wenn du wirklich Angst davor hättest, würdest du erst gar nicht auf dieses Schiff kommen ...」
+
+Junge 	078_045 	
+「Moment mal, wie bist du überhaupt so hoch auf dieses Deck geklettert? Gesprungen?」
+
+Meerjungfrau 	079_034 	
+「Springen reicht nicht, um es zu erreichen. Ich habe diese zwei Arme verwendet, um hochzuklettern.」
+
+Junge 	080_046 	
+「Ich schätze, sogar ein Ninja wäre von deinen Fähigkeiten beeindruckt.」
+
+Meerjungfrau 	081_035 	
+「Das war mühelos.」
+
+Junge 	082_047 	
+「All diese Mühe, nur um auf dieses Schiff zu kommen?」
+
+Meerjungfrau 	083_036 	
+「Mhm, ja. Ich wollte nur sehen, was für eine Art Luxusschiff das ist.」
+
+Junge 	084_048 	
+「... Das war's?」
+
+Meerjungfrau 	085_037 
+「Du bist wie erwartet wirklich ein ignorantes Kind.」
+
+Meerjungfrau 	086_038 	
+「Ich fahre manchmal auf solchen Schiffen mit, um mich zu entspannen und die Meeresbrise zu genießen.」
+
+Meerjungfrau 	087_039 	
+「Obwohl wir frei unter Wasser schwimmen können, können wir nicht an Land laufen oder im Himmel fliegen.」
+
+Meerjungfrau 	088_040 	
+「Deswegen können wir in unserem Alltag nicht den Wind spüren.」
+
+Meerjungfrau 	089_041 	
+「Die Meeresbrise an Bord eines Schiffes zu spüren, das durch die Macht der Wissenschaft erschaffen wurde, fühlt sich sehr gut an.」
+
+Meerjungfrau 	090_042 
+「Deswegen kann ich auch Menschen bewundern, die das Meer bereisen und im Himmel fliegen.」
+
+Meerjungfrau 	091_043
+「Wie fühlt es sich an, im Himmel zu fliegen? Ich will es irgendwann erleben.」
+
+Junge 	092_049 	
+「Frau Meerjungfrau ...」
+
+(Schiffhorn bläst.)
+
+Meerjungfrau 	093_044 
+「Ah, du kommst deinem Ziel näher. Ich sollte jetzt runtergehen.」
+
+Meerjungfrau 	094_045 
+「Wiedersehen, Menschenkind.」
+
+Junge 	095_050 	
+「W-warte ...」
+
+Meerjungfrau 	096_046 
+「Was?」
+
+Junge 	097_051 	
+「Mein Name ist Fuuta. Das bedeutet großer Wind.」
+
+Meerjungfrau 	098_047 	
+「Ah, ich schätze, du hast diesen Wind auch genossen.」
+
+Meerjungfrau 	099_048
+「Mein Name ist Meru. Hihi! Ich hoffe, wir treffen uns irgendwann wieder.」
+
+Junge 	100_052
+「Ah ...」
+
+(Unterwasserstimme)
+
+Junge 	101_053
+「Sie ist weg ...」
+
+Der Junge schaute über die Reling auf das Meer.
+
+Junge 	102_054 
+「Meru ...」
+
+Junge 	103_055 
+「...」
+
+Junge 	104_056 
+「Ich schätze ... ich habe den Wind wirklich geliebt.」
+
+Der Junge hob seinen Kopf.
+
+Junge 	105_057 
+「Ah... richtig. Wir sind fast auf der Insel ...」
+
+Junge 	106_058 	
+「...」
+
+Junge 	107_059 
+「Der Wind fühlt sich wirklich angenehm an ...」
+
+Monolog	108_001 	
+(Nach diesem Treffen war ihm auf Schiffen nie wieder schlecht.)
+
+Monolog	109_002 	
+(Die Meerjungfrau, das Meer und mein eigenartiger Sommer.)
+
+Ende
