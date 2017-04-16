@@ -8,5 +8,5 @@ Summer has come and people are off to enjoy their summer vacation. A boy was dra
 <br/>Author: とむ少佐
 
 ## License:
-[image]: https://i.creativecommons.org/l/by/4.0/88x31.png "CC-BY"  
+![cc](https://i.creativecommons.org/l/by/4.0/88x31.png "CC-BY")  
 \<The mermaid, the sea and the boy's summer\>'s Chinese, English and German versions are licensed under Creative Commons Attribution 4.0 International License.
